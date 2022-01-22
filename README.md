@@ -19,4 +19,4 @@ void AddComment(AstNode node, IMemberDef member, string text = null)
 ```
 
 # How do I download the fix? 
-All you need to do is download the binary from the master branch then put it inside DnSpy\bin and replace.
+All you need to do is download the _updated library_ (ICSharpCode.Decompiler.dll) from the master branch then put it inside DnSpy\bin and replace.
